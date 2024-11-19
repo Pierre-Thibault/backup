@@ -3,7 +3,7 @@
  
 # backup
 
-A script to back a folder as encrypted archives.
+A script to backup a folder as encrypted archives.
 
 ## Description
 
