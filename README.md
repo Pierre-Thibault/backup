@@ -24,7 +24,7 @@ This script ask for the encryption passphrase startup. The passphrase is needed 
 ## Installation
 
 1. Move `backup_template` to `backup` in some directory in your PATH.
-1. Change the `source` and `destination` variables in the script to define the source and the destination of the backup to your liking.
+1. Change the `source` and `destination` variables in the script to define the source and the destination of the backup to your licking.
 1. Ensure the file is executable.
 1. Ensure the dependencies are installed.
 1. Ensure `gpg` is configured properly.
